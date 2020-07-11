@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**avinashkranjan/avinashkranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working as Freelancer | Self Employed
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on any cool Project
