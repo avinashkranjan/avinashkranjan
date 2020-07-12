@@ -7,6 +7,6 @@ My Name is Avinash Kumar Ranjan, Undergrad Computer Science Engineering Student 
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development
 - 📫 How to reach me: ranjan.avinash@hotmail.com
-- ⚡ Fun fact: ... I Love to code cool things
+- ⚡ Fun fact: I Love to code cool things
 
 
