@@ -6,7 +6,7 @@ My Name is Avinash Kumar Ranjan, Undergrad Computer Science Engineering Student 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development
-- 📫 How to reach me: +91 7050858026 | ranjan.avinash@hotmail.com
+- 📫 How to reach me: ranjan.avinash@hotmail.com
 - ⚡ Fun fact: ... I Love to code cool things
 
 
