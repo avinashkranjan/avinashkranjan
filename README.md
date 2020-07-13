@@ -8,5 +8,5 @@ My Name is Avinash Kumar Ranjan, Undergrad Computer Science Engineering Student 
 - 🤔 I’m looking for help with Open Source Project Development
 - 📫 You can reach at: ranjan.avinash@hotmail.com
 - ⚡ Fun fact: Coding can make you a billionaire..
-
+- 🎆 I'm Open for Opportunities
 
