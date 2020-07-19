@@ -8,6 +8,6 @@ My Name is Avinash Kumar Ranjan, Computer Science Engineering Sophomore at Calcu
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development
 - 📫 You can reach at: ranjan.avinash@hotmail.com
-- ⚡ Fun fact: Coding can make you a billionaire..
+- ⚡ Fun fact: Coding can make you a billionaire.
 - 🎆 I'm Open for Opportunities.
 
