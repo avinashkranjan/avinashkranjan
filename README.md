@@ -28,7 +28,7 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 
 
 <a href="https://github.com/avinashkranjan/MalwareUsingC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=PythonProjects" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=MalwareUsingC" />
 </a>
 <a href="https://github.com/avinashkranjan/PythonProjects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=PythonProjects" />
