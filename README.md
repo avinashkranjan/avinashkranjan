@@ -11,12 +11,12 @@ My Name is Avinash Kumar Ranjan, Computer Science Engineering Sophomore at Calcu
 I'm a MERN Stack Developer 🤓 | Ethical Hacker 😏 | Flutter Developer 🧐  | Competitive Programmer🤠  | Writer 🤭| Public Speaker 🥳 . 
 I'm looking Looking forward to utilize my Web Development, Software Development and Hacking Skills in a Dynamic Environment. 🧑🏻
 
-- 🎪 https://sourcerer.io/avinashkranjan
-- 🔭 I’m currently working as Freelancer | Self Employed
-- 🌱 I’m currently learning Full Stack Development
+- 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan)
+- 🔭 I’m currently working as Freelancer 💻
+- 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development
-- 📫 You can reach at: ranjan.avinash@hotmail.com
+- 📫 You can reach at: ranjan.avinash@hotmail.com 
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
 - 🎆 I'm Open for Opportunities.
 
