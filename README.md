@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My Name is Avinash Kumar Ranjan, Computer Science Engineering Sophomore at Calcutta Institute of Engineering and Management (Location: Kolkata, West Bengal, India) (Batch: 2019-2023) I'm a MERN Stack Developer | Ethical Hacker | Flutter Developer | Competitive Programmer | Writer | Public Speaker. I'm looking Looking forward to utilize my Web Development, Software Development and Hacking Skills in a Dynamic Environment. 
 
@@ -11,3 +11,5 @@ My Name is Avinash Kumar Ranjan, Computer Science Engineering Sophomore at Calcu
 - ⚡ Fun fact: Coding can make you a billionaire.
 - 🎆 I'm Open for Opportunities.
 
+
+![Avinash's Github Stats](https://github-readme-stats.vercel.app/api?username=avinashkranjan&show_icons=true)
