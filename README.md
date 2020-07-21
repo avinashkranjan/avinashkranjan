@@ -21,11 +21,9 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 - 🎆 I'm Open for Opportunities.
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
 ![Avinash's Github Stats](https://github-readme-stats.vercel.app/api?username=avinashkranjan&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&hide_langs_below=1)](https://github.com/avinashkranjan)
 
 <a href="https://github.com/avinashkranjan/MalwareUsingC">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=MalwareUsingC" />
