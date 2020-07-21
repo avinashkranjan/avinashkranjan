@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there, I'm [Avinash!](https://avinashkranjan.github.io) 👋
 
 <a href="https://www.linkedin.com/in/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
