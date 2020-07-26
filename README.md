@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashkranjan)
 
-My Name is Avinash Kr. Ranjan, Computer Science Engineering Sophomore at Calcutta Institute of Engineering and Management (Location: Kolkata, West Bengal, India) 
+My Name is <b>Avinash Kr. Ranjan</b>, Computer Science Engineering Sophomore at Calcutta Institute of Engineering and Management (Location: Kolkata, West Bengal, India) 
 I'm a MERN Stack Developer 🤓 | Ethical Hacker 😏 | Flutter Developer 🧐  | Competitive Programmer🤠  | Writer 🤭| Public Speaker 🥳 . 
 I'm looking Looking forward to utilize my Web Development, Software Development and Hacking Skills in a Dynamic Environment. 🧑🏻
 
