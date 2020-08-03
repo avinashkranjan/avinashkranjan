@@ -25,11 +25,17 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&hide_langs_below=1)](https://github.com/avinashkranjan)
 ![Avinash's Github Stats](https://github-readme-stats.vercel.app/api?username=avinashkranjan&show_icons=true)
 
-### Trending Repository 📖
+### Trending Repositories 📖
 
 <a href="https://github.com/avinashkranjan/MalwareUsingC">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=MalwareUsingC" />
 </a>
 <a href="https://github.com/avinashkranjan/PythonProjects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=PythonProjects" />
+</a>
+<a href="https://github.com/avinashkranjan/TicTacToe">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=TicTacToe" />
+</a>
+<a href="https://github.com/avinashkranjan/Snake-Game">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Snake-Game" />
 </a>
