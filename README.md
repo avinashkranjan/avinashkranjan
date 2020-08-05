@@ -27,8 +27,8 @@ I'm looking Looking forward to utilize my Web Development, Software Development 
 
 ### Trending Repositories 📖
 
-<a href="https://github.com/avinashkranjan/MalwareUsingC">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=MalwareUsingC" />
+<a href="https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Malware-with-Backdoor-and-Keylogger" />
 </a>
 <a href="https://github.com/avinashkranjan/PythonProjects">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=PythonProjects" />
