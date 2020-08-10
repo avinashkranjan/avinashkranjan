@@ -18,7 +18,7 @@ My Name is <b>Avinash Kr. Ranjan</b>, Computer Science & Engineering Sophomore a
 - 🤔 I’m looking for help with Open Source Project Development
 - 📫 You can reach at: ranjan.avinash@hotmail.com 
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
-- 🎆 I'm Open for Opportunities.
+- 🎆 I'm Open for New Opportunities.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&layout=compact)](https://github.com/avinashkranjan)
