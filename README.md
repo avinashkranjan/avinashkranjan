@@ -29,8 +29,8 @@ My Name is <b>Avinash Kr. Ranjan</b>, Computer Science & Engineering Sophomore a
 <a href="https://github.com/avinashkranjan/Malware-with-Backdoor-and-Keylogger">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Malware-with-Backdoor-and-Keylogger" />
 </a>
-<a href="https://github.com/avinashkranjan/PythonProjects">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=PythonProjects" />
+<a href="https://github.com/avinashkranjan/Python-Scripts">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Python-Scripts" />
 </a>
 <a href="https://github.com/avinashkranjan/TicTacToe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=TicTacToe" />
