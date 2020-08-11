@@ -21,8 +21,8 @@ My Name is <b>Avinash Kr. Ranjan</b>, Computer Science & Engineering Sophomore a
 - 🎆 I'm Open for New Opportunities.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&layout=compact)](https://github.com/avinashkranjan)
 ![Avinash's Github Stats](https://github-readme-stats.vercel.app/api?username=avinashkranjan&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&layout=compact)](https://github.com/avinashkranjan)
 
 ### Trending Repositories 📖
 
