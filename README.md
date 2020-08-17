@@ -9,13 +9,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashkranjan)
 
-My Name is <b>Avinash Kr. Ranjan</b>, Computer Science & Engineering Sophomore at <b>Calcutta Institute of Engineering and Management</b> (Location: Kolkata, West Bengal, India) I'm a <b>MERN Stack Developer</b> 🤓 | <b>Ethical Hacker</b> 😏 | <b>Flutter Developer</b> 🧐  | <b>Competitive Programmer</b>🤠  | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. I'm looking Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Hacking Skills</b> in a Dynamic Environment. 🧑🏻
+My Name is <b>Avinash Kr. Ranjan</b>, Computer Science & Engineering Sophomore at <b>Calcutta Institute of Engineering and Management</b> (Location: Kolkata, West Bengal, India) I'm a <b>MERN Stack Developer</b> 🤓 | <b>Ethical Hacker</b> 😏 | <b>Flutter Developer</b> 🧐  | <b>Python Developer</b> 👨🏻‍💻|<b>Competitive Programmer</b>🤠  | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. I'm looking Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Hacking Skills</b> in a Dynamic Environment. 🧑🏻
 
 - 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan)
 - 🔭 I’m currently working as Freelancer 💻
 - 🌱 I’m currently learning Full Stack Development 
 - 👯 I’m looking to collaborate on any cool Project
-- 🤔 I’m looking for help with Open Source Project Development
+- 🤔 I’m looking for help with Open Source Project Development 
 - 📫 You can reach at: ranjan.avinash@hotmail.com 
 - ⚡ Fun fact: Caffeine helps me Code.. ☕
 - 🎆 I'm Open for New Opportunities.
