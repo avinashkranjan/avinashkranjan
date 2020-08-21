@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=avinashkranjan)
 
-I'm Computer Science & Engineering Sophomore at <b>Calcutta Institute of Engineering and Management</b> (Location: Kolkata, West Bengal, India) I'm a <b>MERN Stack Developer</b> 🤓 | <b>Ethical Hacker</b> 😏 | <b>Flutter Developer</b> 🧐  | <b>Python Developer</b> 👨🏻‍💻|<b>Competitive Programmer</b>🤠  | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. I'm looking Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Hacking Skills</b> in a Dynamic Environment. 🧑🏻
+I'm _Computer Science & Engineering Sophomore_ at <b>Calcutta Institute of Engineering and Management</b> (Location: Kolkata, West Bengal, India) I'm a <b>MERN Stack Developer</b> 🤓 | <b>Ethical Hacker</b> 😏 | <b>Flutter Developer</b> 🧐  | <b>Python Developer</b> 👨🏻‍💻| <b>Open Source Contributor</b> 📝| <b>Competitive Programmer</b>🤠 | <b>Technical Writer</b> 🤭| <b>Public Speaker</b> 🥳. Looking forward to utilize my <b>Web Development</b>, <b>Software Development</b> and <b>Hacking Skills</b> in a Dynamic Environment. 🧑🏻
 
 - 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan)
 - 🔭 I’m currently working as Freelancer 💻
