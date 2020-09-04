@@ -35,6 +35,6 @@ _Computer Science & Engineering Sophomore_ at <b>Calcutta Institute of Engineeri
 <a href="https://github.com/avinashkranjan/TicTacToe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=TicTacToe" />
 </a>
-<a href="https://github.com/avinashkranjan/Snake-Game">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Snake-Game" />
+<a href="https://github.com/avinashkranjan/Competitive-Programming-Algorithms">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Competitive-Programming-Algorithms" />
 </a>
