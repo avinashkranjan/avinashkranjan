@@ -32,8 +32,8 @@ _Computer Science & Engineering Sophomore_ at <b>Calcutta Institute of Engineeri
 <a href="https://github.com/avinashkranjan/Python-Scripts">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Amazing-Python-Scripts" />
 </a>
-<a href="https://github.com/avinashkranjan/TicTacToe">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=TicTacToe" />
+<a href="https://github.com/avinashkranjan/lifeMEDeasy">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=lifeMEDeasy" />
 </a>
 <a href="https://github.com/avinashkranjan/Competitive-Programming-Algorithms">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=avinashkranjan&repo=Competitive-Programming-Algorithms" />
