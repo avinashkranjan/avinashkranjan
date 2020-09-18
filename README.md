@@ -3,7 +3,6 @@
 <a href="https://www.linkedin.com/in/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/avinashranjan.1020/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:ranjan.avinash@hotmail.com"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/iavinashranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/avinashkranjan7"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>
 
