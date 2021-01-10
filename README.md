@@ -12,7 +12,7 @@ _Computer Science & Engineering Sophomore_ at <b>Calcutta Institute of Engineeri
 
 - 🎪 [Visual Portfolio](https://sourcerer.io/avinashkranjan)
 - 🔭 I’m currently working as Freelancer 💻
-- 🌱 I’m currently learning Full Stack Development 
+- 🌱 I’m currently learning Full Stack Development , NextJS
 - 👯 I’m looking to collaborate on any cool Project
 - 🤔 I’m looking for help with Open Source Project Development 
 - 📫 You can reach at: ranjan.avinash@hotmail.com 
