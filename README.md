@@ -23,6 +23,7 @@ _Computer Science & Engineering Sophomore_ at <b>Calcutta Institute of Engineeri
 
 ![Avinash's Github Stats](https://github-readme-stats.vercel.app/api?username=avinashkranjan&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkranjan&layout=compact)](https://github.com/avinashkranjan)
+![Avinash GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avinashkranjan)
 
 ### Trending Repositories 📖
 
