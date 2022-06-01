@@ -1,5 +1,4 @@
-### Hi there, I'm [Avinash!](https://avinashkranjan.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
-
+### Hi there, I'm [Avinash!](https://avinashkranjan.github.io) 
 <a href="https://www.linkedin.com/in/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/avinashranjan.1020/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
